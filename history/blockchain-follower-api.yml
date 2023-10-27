@@ -1,7 +1,7 @@
-url: https://follower-api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/blockchain/tip
+url: https://follower-api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/blockchain/tip
 status: down
-code: 404
-responseTime: 98
-lastUpdated: 2023-10-27T09:34:24.874Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-10-27T09:45:48.420Z
 startTime: 2023-10-27T08:01:49.439Z
 generator: Upptime <https://github.com/upptime/upptime>
