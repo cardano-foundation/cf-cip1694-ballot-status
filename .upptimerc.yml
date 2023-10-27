@@ -6,7 +6,7 @@ sites:
   - name: 1694ballot.cardano.org
     url: https://pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'A Vote on Minimum-Viable on chain Governance'
+#    __dangerous__body_down_if_text_missing: 'A Vote on Minimum-Viable on chain Governance'
     expectedStatusCodes:
       - 200
   - name: event-api
