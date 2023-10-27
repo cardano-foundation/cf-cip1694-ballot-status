@@ -5,84 +5,84 @@
     "icon": "https://icons.duckduckgo.com/ip3/cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "1694ballot-cardano-org",
     "status": "up",
-    "uptime": "11.18%",
-    "uptimeDay": "11.18%",
-    "uptimeWeek": "11.18%",
-    "uptimeMonth": "11.18%",
-    "uptimeYear": "11.18%",
-    "time": 504,
-    "timeDay": 504,
-    "timeWeek": 504,
-    "timeMonth": 504,
-    "timeYear": 504,
+    "uptime": "14.39%",
+    "uptimeDay": "14.39%",
+    "uptimeWeek": "14.39%",
+    "uptimeMonth": "14.39%",
+    "uptimeYear": "14.39%",
+    "time": 405,
+    "timeDay": 405,
+    "timeWeek": 405,
+    "timeMonth": 405,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2023-10-27": 93
     }
   },
   {
     "name": "event-api",
-    "url": "https://follower-api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/reference/event/CIP-1694_Pre_Ratification_B240",
-    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.https.ico",
+    "url": "https://follower-api.pro.cip1694.metadata.dev.cf-deployments.org/api/reference/event/CIP-1694_Pre_Ratification_B240",
+    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "event-api",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 457,
-    "timeDay": 457,
-    "timeWeek": 457,
-    "timeMonth": 457,
-    "timeYear": 457,
-    "dailyMinutesDown": {
-      "2023-10-27": 104
-    }
-  },
-  {
-    "name": "blockchain-follower-api",
-    "url": "https://follower-api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/blockchain/tip",
-    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.https.ico",
-    "slug": "blockchain-follower-api",
     "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
+    "time": 457,
+    "timeDay": 457,
+    "timeWeek": 457,
+    "timeMonth": 457,
+    "timeYear": 457,
+    "dailyMinutesDown": {
+      "2023-10-27": 108
+    }
+  },
+  {
+    "name": "blockchain-follower-api",
+    "url": "https://follower-api.pro.cip1694.metadata.dev.cf-deployments.org/api/blockchain/tip",
+    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
+    "slug": "blockchain-follower-api",
+    "status": "down",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 86,
     "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 86,
     "timeYear": 86,
     "dailyMinutesDown": {
-      "2023-10-27": 104
+      "2023-10-27": 108
     }
   },
   {
     "name": "login-api",
-    "url": "http://api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/auth/login",
-    "icon": "https://icons.duckduckgo.com/ip3/api.pro.https.ico",
+    "url": "http://api.pro.cip1694.metadata.dev.cf-deployments.org/api/auth/login",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 664,
     "timeDay": 664,
     "timeWeek": 664,
     "timeMonth": 664,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2023-10-27": 104
+      "2023-10-27": 108
     }
   },
   {
     "name": "cast-vote-api",
-    "url": "http://api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/vote/cast",
-    "icon": "https://icons.duckduckgo.com/ip3/api.pro.https.ico",
+    "url": "http://api.pro.cip1694.metadata.dev.cf-deployments.org/api/vote/cast",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "cast-vote-api",
     "status": "down",
     "uptime": "0.01%",
@@ -96,13 +96,13 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-27": 104
+      "2023-10-27": 108
     }
   },
   {
     "name": "get-votes-api",
-    "url": "http://api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/vote/votes/CIP-1694_Pre_Ratification_B240",
-    "icon": "https://icons.duckduckgo.com/ip3/api.pro.https.ico",
+    "url": "http://api.pro.cip1694.metadata.dev.cf-deployments.org/api/vote/votes/CIP-1694_Pre_Ratification_B240",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "get-votes-api",
     "status": "down",
     "uptime": "0.01%",
@@ -116,27 +116,27 @@
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-27": 104
+      "2023-10-27": 108
     }
   },
   {
     "name": "get-vote-receipt-api",
-    "url": "http://api.pro.https://cip1694.metadata.dev.cf-deployments.org//api/vote/receipt/CIP-1694_Pre_Ratification_B240/AMBASSADOR",
-    "icon": "https://icons.duckduckgo.com/ip3/api.pro.https.ico",
+    "url": "http://api.pro.cip1694.metadata.dev.cf-deployments.org/api/vote/receipt/CIP-1694_Pre_Ratification_B240/AMBASSADOR",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cip1694.metadata.dev.cf-deployments.org.ico",
     "slug": "get-vote-receipt-api",
     "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 170,
     "timeDay": 170,
     "timeWeek": 170,
     "timeMonth": 170,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2023-10-27": 104
+      "2023-10-27": 108
     }
   }
 ]
