@@ -4,42 +4,84 @@ repo: cf-cip1694-ballot-status
 
 sites:
   - name: 1694ballot.cardano.org
-    url: https://cip1694.metadata.dev.cf-deployments.org/
+    url: https://1694ballot.cardano.org/
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Cardano Voting Application'
     expectedStatusCodes:
       - 200
   - name: event-api
-    url: https://follower-api.cip1694.metadata.dev.cf-deployments.org/api/reference/event/CIP-1694_Pre_Ratification_B240
+    url: https://follower-api.1694ballot.cardano.org/api/reference/event/CIP-1694_Pre_Ratification_B240
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'CIP-1694_Pre_Ratification_B240'
     expectedStatusCodes:
       - 200
   - name: blockchain-follower-api
-    url: https://follower-api.cip1694.metadata.dev.cf-deployments.org/api/blockchain/tip
+    url: https://follower-api.1694ballot.cardano.org/api/blockchain/tip
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'absoluteSlot'
     expectedStatusCodes:
       - 200
   - name: login-api
-    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/auth/login
+    url: http://api.1694ballot.cardano.org/api/auth/login
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: cast-vote-api
-    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/cast
+    url: http://api.1694ballot.cardano.org/api/vote/cast
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-votes-api
-    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/votes/CIP-1694_Pre_Ratification_B240
+    url: http://api.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification_B240
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-vote-receipt-api
+    url: http://api.1694ballot.cardano.org/api/vote/receipt/CIP-1694_Pre_Ratification_B240/AMBASSADOR
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
+  - name: [STG] cip1694.metadata.dev.cf-deployments.org
+    url: https://cip1694.metadata.dev.cf-deployments.org/
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Cardano Voting Application'
+    expectedStatusCodes:
+      - 200
+  - name: [STG] event-api
+    url: https://follower-api.cip1694.metadata.dev.cf-deployments.org/api/reference/event/CIP-1694_Pre_Ratification_B240
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'CIP-1694_Pre_Ratification_B240'
+    expectedStatusCodes:
+      - 200
+  - name: [STG] blockchain-follower-api
+    url: https://follower-api.cip1694.metadata.dev.cf-deployments.org/api/blockchain/tip
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'absoluteSlot'
+    expectedStatusCodes:
+      - 200
+  - name: [STG] login-api
+    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/auth/login
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
+  - name: [STG] cast-vote-api
+    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/cast
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
+  - name: [STG] get-votes-api
+    url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/votes/CIP-1694_Pre_Ratification_B240
+    maxResponseTime: 2000
+    __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
+    expectedStatusCodes:
+      - 401
+  - name: [STG] get-vote-receipt-api
     url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/receipt/CIP-1694_Pre_Ratification_B240/AMBASSADOR
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
