@@ -1,0 +1,142 @@
+[
+  {
+    "name": "1694ballot.cardano.org",
+    "url": "https://pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/",
+    "icon": "https://icons.duckduckgo.com/ip3/pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "1694ballot-cardano-org",
+    "status": "down",
+    "uptime": "2.44%",
+    "uptimeDay": "2.44%",
+    "uptimeWeek": "2.44%",
+    "uptimeMonth": "2.44%",
+    "uptimeYear": "2.44%",
+    "time": 537,
+    "timeDay": 537,
+    "timeWeek": 537,
+    "timeMonth": 537,
+    "timeYear": 537,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "event-api",
+    "url": "https://follower-api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/reference/event/CIP-1694_Pre_Ratification_B240",
+    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "event-api",
+    "status": "down",
+    "uptime": "3.70%",
+    "uptimeDay": "3.70%",
+    "uptimeWeek": "3.70%",
+    "uptimeMonth": "3.70%",
+    "uptimeYear": "3.70%",
+    "time": 459,
+    "timeDay": 459,
+    "timeWeek": 459,
+    "timeMonth": 459,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "blockchain-follower-api",
+    "url": "https://follower-api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/blockchain/tip",
+    "icon": "https://icons.duckduckgo.com/ip3/follower-api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "blockchain-follower-api",
+    "status": "down",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
+    "time": 74,
+    "timeDay": 74,
+    "timeWeek": 74,
+    "timeMonth": 74,
+    "timeYear": 74,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "login-api",
+    "url": "http://api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/auth/login",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "login-api",
+    "status": "down",
+    "uptime": "5.57%",
+    "uptimeDay": "5.57%",
+    "uptimeWeek": "5.57%",
+    "uptimeMonth": "5.57%",
+    "uptimeYear": "5.57%",
+    "time": 615,
+    "timeDay": 615,
+    "timeWeek": 615,
+    "timeMonth": 615,
+    "timeYear": 615,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "cast-vote-api",
+    "url": "http://api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/vote/cast",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "cast-vote-api",
+    "status": "down",
+    "uptime": "7.36%",
+    "uptimeDay": "7.36%",
+    "uptimeWeek": "7.36%",
+    "uptimeMonth": "7.36%",
+    "uptimeYear": "7.36%",
+    "time": 144,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 144,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "get-votes-api",
+    "url": "http://api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification_B240",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "get-votes-api",
+    "status": "down",
+    "uptime": "3.51%",
+    "uptimeDay": "3.51%",
+    "uptimeWeek": "3.51%",
+    "uptimeMonth": "3.51%",
+    "uptimeYear": "3.51%",
+    "time": 143,
+    "timeDay": 143,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  },
+  {
+    "name": "get-vote-receipt-api",
+    "url": "http://api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org/api/vote/receipt/CIP-1694_Pre_Ratification_B240/AMBASSADOR",
+    "icon": "https://icons.duckduckgo.com/ip3/api.pro.cf-cip1694-mainnet.eu-west-1.1694ballot.cardano.org.ico",
+    "slug": "get-vote-receipt-api",
+    "status": "down",
+    "uptime": "15.21%",
+    "uptimeDay": "15.21%",
+    "uptimeWeek": "15.21%",
+    "uptimeMonth": "15.21%",
+    "uptimeYear": "15.21%",
+    "time": 143,
+    "timeDay": 143,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
+  }
+]
