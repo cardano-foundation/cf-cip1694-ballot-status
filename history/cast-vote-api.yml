@@ -1,7 +1,7 @@
-url: http://api.cip1694.metadata.dev.cf-deployments.org/api/vote/cast
-status: up
-code: 401
-responseTime: 416
-lastUpdated: 2023-10-27T10:05:45.769Z
+url: http://api.1694ballot.cardano.org/api/vote/cast
+status: down
+code: 404
+responseTime: 279
+lastUpdated: 2023-10-27T10:21:28.494Z
 startTime: 2023-10-27T08:01:55.306Z
 generator: Upptime <https://github.com/upptime/upptime>
