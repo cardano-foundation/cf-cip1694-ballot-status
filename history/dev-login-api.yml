@@ -1,7 +1,7 @@
 url: http://api.dev.cf-cip1694-preprod.eu-west-1.metadata.dev.cf-deployments.org/api/auth/login
 status: up
 code: 401
-responseTime: 647
-lastUpdated: 2023-10-29T23:05:24.207Z
+responseTime: 816
+lastUpdated: 2023-10-30T23:05:42.304Z
 startTime: 2023-10-27T15:01:33.111Z
 generator: Upptime <https://github.com/upptime/upptime>
