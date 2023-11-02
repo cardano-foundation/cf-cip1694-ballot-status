@@ -6,7 +6,7 @@ sites:
   - name: 1694ballot.cardano.org
     url: https://1694ballot.cardano.org/
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'Cardano Voting Application'
+    __dangerous__body_down_if_text_missing: 'Cardano Ballot Application'
     expectedStatusCodes:
       - 200
   - name: event-api
