@@ -10,9 +10,9 @@ sites:
     expectedStatusCodes:
       - 200
   - name: event-api
-    url: https://follower-api.1694ballot.cardano.org/api/reference/event/CIP-1694_Pre_Ratification_TEST_2
+    url: https://follower-api.1694ballot.cardano.org/api/reference/event/CIP-1694_Pre_Ratification
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: 'CIP-1694_Pre_Ratification_TEST_2'
+    __dangerous__body_down_if_text_missing: 'CIP-1694_Pre_Ratification'
     expectedStatusCodes:
       - 200
   - name: blockchain-follower-api
@@ -34,13 +34,13 @@ sites:
     expectedStatusCodes:
       - 401
   - name: get-votes-api
-    url: http://api.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification_TEST_2
+    url: http://api.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
       - 401
   - name: get-vote-receipt-api
-    url: http://api.1694ballot.cardano.org/api/vote/receipt/CIP-1694_Pre_Ratification_TEST_2/AMBASSADOR
+    url: http://api.1694ballot.cardano.org/api/vote/receipt/CIP-1694_Pre_Ratification/CIP1694_APPROVAL
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: 'Full authentication is required to access this resource'
     expectedStatusCodes:
