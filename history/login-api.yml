@@ -1,7 +1,7 @@
 url: http://api.1694ballot.cardano.org/api/auth/login
 status: up
 code: 401
-responseTime: 625
-lastUpdated: 2023-11-30T23:05:48.420Z
+responseTime: 323
+lastUpdated: 2023-12-01T23:06:08.724Z
 startTime: 2023-11-01T14:33:03.455Z
 generator: Upptime <https://github.com/upptime/upptime>
