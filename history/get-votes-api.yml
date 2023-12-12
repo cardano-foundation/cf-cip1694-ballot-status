@@ -1,7 +1,7 @@
 url: http://api.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification
 status: up
 code: 401
-responseTime: 275
-lastUpdated: 2023-12-11T23:05:45.561Z
+responseTime: 539
+lastUpdated: 2023-12-12T23:06:01.028Z
 startTime: 2023-11-01T14:33:04.987Z
 generator: Upptime <https://github.com/upptime/upptime>
