@@ -4,9 +4,9 @@
     "url": "https://1694ballot.cardano.org/",
     "icon": "https://icons.duckduckgo.com/ip3/1694ballot.cardano.org.ico",
     "slug": "1694ballot-cardano-org",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 350,
     "timeYear": 379,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-11-02": 684,
       "2023-11-01": 459,
       "2023-10-27": 112
@@ -26,18 +27,19 @@
     "url": "https://follower-api.1694ballot.cardano.org/api/reference/event/CIP-1694_Pre_Ratification",
     "icon": "https://icons.duckduckgo.com/ip3/follower-api.1694ballot.cardano.org.ico",
     "slug": "event-api",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 542,
     "timeDay": 576,
     "timeWeek": 589,
     "timeMonth": 495,
     "timeYear": 542,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-12-16": 5,
       "2023-11-03": 710,
       "2023-10-27": 129
@@ -48,9 +50,9 @@
     "url": "https://follower-api.1694ballot.cardano.org/api/blockchain/tip",
     "icon": "https://icons.duckduckgo.com/ip3/follower-api.1694ballot.cardano.org.ico",
     "slug": "blockchain-follower-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
@@ -60,6 +62,7 @@
     "timeMonth": 354,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-12-16": 5,
       "2023-11-03": 55,
       "2023-10-27": 128
@@ -70,9 +73,9 @@
     "url": "http://api.1694ballot.cardano.org/api/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "login-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -82,6 +85,7 @@
     "timeMonth": 460,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-10-27": 128
     }
   },
@@ -90,9 +94,9 @@
     "url": "http://api.1694ballot.cardano.org/api/vote/cast",
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "cast-vote-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -102,6 +106,7 @@
     "timeMonth": 297,
     "timeYear": 320,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-10-27": 128
     }
   },
@@ -110,9 +115,9 @@
     "url": "http://api.1694ballot.cardano.org/api/vote/votes/CIP-1694_Pre_Ratification",
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "get-votes-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -122,6 +127,7 @@
     "timeMonth": 312,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-10-27": 128
     }
   },
@@ -130,9 +136,9 @@
     "url": "http://api.1694ballot.cardano.org/api/vote/receipt/CIP-1694_Pre_Ratification/CIP1694_APPROVAL",
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "get-vote-receipt-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -142,6 +148,7 @@
     "timeMonth": 221,
     "timeYear": 281,
     "dailyMinutesDown": {
+      "2024-01-26": 0,
       "2023-10-27": 128
     }
   }
