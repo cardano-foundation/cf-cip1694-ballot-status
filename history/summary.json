@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/1694ballot.cardano.org.ico",
     "slug": "1694ballot-cardano-org",
     "status": "down",
-    "uptime": "17.11%",
+    "uptime": "17.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 378,
+    "time": 375,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -379,8 +380,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/follower-api.1694ballot.cardano.org.ico",
     "slug": "event-api",
     "status": "down",
-    "uptime": "17.17%",
+    "uptime": "17.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 539,
+    "time": 538,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -763,8 +764,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/follower-api.1694ballot.cardano.org.ico",
     "slug": "blockchain-follower-api",
     "status": "down",
-    "uptime": "17.26%",
+    "uptime": "17.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 380,
+    "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1147,8 +1148,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -1157,7 +1157,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "login-api",
     "status": "down",
-    "uptime": "17.27%",
+    "uptime": "17.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1168,7 +1168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1531,8 +1532,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -1541,7 +1541,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "cast-vote-api",
     "status": "down",
-    "uptime": "17.27%",
+    "uptime": "17.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1552,7 +1552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1915,8 +1916,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -1925,7 +1925,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "get-votes-api",
     "status": "down",
-    "uptime": "17.27%",
+    "uptime": "17.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1936,7 +1936,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -2299,8 +2300,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -2309,7 +2309,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.1694ballot.cardano.org.ico",
     "slug": "get-vote-receipt-api",
     "status": "down",
-    "uptime": "17.27%",
+    "uptime": "17.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -2320,7 +2320,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 23,
+      "2025-03-13": 23,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -2683,8 +2684,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   }
 ]
